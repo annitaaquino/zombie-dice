@@ -1,5 +1,5 @@
 # Introduction
-Esse projeto é a nossa versão da implementação do jogo de tabuleiro do ZombieDice.
+Esse projeto é a nossa versão (minha e de @InfinityJu) da implementação do jogo de tabuleiro do ZombieDice.
 
 A estrutura do projeto ficou dividida assim:
 
